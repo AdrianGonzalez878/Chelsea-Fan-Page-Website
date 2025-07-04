@@ -29,3 +29,6 @@ Responsive Design: The interface adapts to different screen sizes, from mobile d
 
 Reusable Components: Modular and easy-to-maintain code structure thanks to React components.
 
+
+
+![chelsea page](https://github.com/user-attachments/assets/7d35722b-1387-4e1a-9636-eecf173f927b)
