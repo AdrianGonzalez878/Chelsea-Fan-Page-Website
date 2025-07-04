@@ -1,5 +1,4 @@
-Chelsea FC Fan Page
-
+# Chelsea FC Fan Page
 Welcome to the repository for the Chelsea Football Club fan page! This project is a modern and dynamic web application dedicated to the Blues' supporters, offering key information about the club's history, trophies, current squad, and legends.
 
 🛠️ Technologies Used
