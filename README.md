@@ -1,12 +1,31 @@
-# React + Vite
+Chelsea FC Fan Page
+Welcome to the repository for the Chelsea Football Club fan page! This project is a modern and dynamic web application dedicated to the Blues' supporters, offering key information about the club's history, trophies, current squad, and legends.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Technologies Used
+This project is built with a modern and efficient technology stack:
 
-Currently, two official plugins are available:
+React: A JavaScript library for building user interfaces. React allows for the creation of reusable components and efficient management of application state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind CSS: A utility-first CSS framework that lets you build custom designs rapidly, directly in your markup, without leaving your JavaScript.
 
-## Expanding the ESLint configuration
+Vite: A next-generation frontend development tool that provides an incredibly fast development experience, with instant hot module replacement and optimized builds.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Router DOM: Used for declarative routing within the application, enabling smooth navigation between different sections without full page reloads.
+
+✨ Features
+Home Page (/): A welcoming page for the fan site with club highlights.
+
+History (/history): A look at key moments and the evolution of Chelsea FC.
+
+Trophies (/trophies): An exhibition of the prestigious titles won by the club.
+
+Derbies (/derbies): Information about classic matchups and rivalries.
+
+Current Squad (/squad): Details about the players in the current team.
+
+Legends (/legends): A tribute to the most iconic figures who have worn the Chelsea shirt.
+
+Responsive Design: The interface adapts to different screen sizes, from mobile devices to desktops.
+
+Reusable Components: Modular and easy-to-maintain code structure thanks to React components.
+
